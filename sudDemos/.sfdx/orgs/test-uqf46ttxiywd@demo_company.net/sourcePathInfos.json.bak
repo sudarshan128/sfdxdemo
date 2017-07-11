@@ -1,0 +1,182 @@
+[
+    [
+        "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499764489879,
+            "changeTime": 1499764489879,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499764489919,
+            "changeTime": 1499764489919,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499764489919,
+            "changeTime": 1499764489919,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499764627051,
+            "changeTime": 1499764627051,
+            "contentHash": "ad0b6157b02bc6ecde2a289ae71a4b940b5c6d99",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499764627056,
+            "changeTime": 1499764627056,
+            "contentHash": "3356d547fff505b797b0c430a925501f31a70483",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2\\SudDemoLight2.cmp",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2\\SudDemoLight2.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1499764627051,
+            "changeTime": 1499764627051,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2\\SudDemoLight2.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2\\SudDemoLight2.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 245,
+            "modifiedTime": 1499764627052,
+            "changeTime": 1499764627052,
+            "contentHash": "9b7c405a5c3b2580ffa11f7f22ec16cdfbfdda53",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2\\SudDemoLight2.css",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2\\SudDemoLight2.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1499764627054,
+            "changeTime": 1499764627054,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2\\SudDemoLight2Controller.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2\\SudDemoLight2Controller.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1499764627053,
+            "changeTime": 1499764627053,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2\\SudDemoLight2Helper.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2\\SudDemoLight2Helper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1499764627053,
+            "changeTime": 1499764627053,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2\\SudDemoLight2Renderer.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SFDXDEmo\\sfdxdemo\\sudDemos\\force-app\\main\\default\\aura\\SudDemoLight2\\SudDemoLight2Renderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1499764627056,
+            "changeTime": 1499764627056,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\SFDXDEmo\\sfdxdemo\\sudDemos",
+        {
+            "state": "n",
+            "sourcePath": "D:\\SFDXDEmo\\sfdxdemo\\sudDemos",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499764512391,
+            "changeTime": 1499764512391,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
